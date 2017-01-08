@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickScanRecovery</string>
+    <string name="quickscan">QuickScan</string>
+    <string name="string_menu_title">Settings</string>
+</resources>
