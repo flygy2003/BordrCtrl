@@ -2,27 +2,23 @@ package com.example.neekondev.quickscan;
 
 import android.Manifest;
 import android.content.Intent;
+
 import android.content.pm.ActivityInfo;
 import android.content.pm.PackageManager;
 
-import android.content.res.TypedArray;
-import android.graphics.Point;
 import android.hardware.Camera;
 import android.os.Bundle;
-import android.os.Handler;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.util.SparseArray;
-import android.view.Display;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
